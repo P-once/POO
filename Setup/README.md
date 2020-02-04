@@ -9,7 +9,9 @@ archivo de instalación del siguiente lugar:
 Es importante bajar el SDK, porque **vamos a programar**.
 
 La pagina se ve asi:
-![Pagina .net core](C:\POO\Setup\Img\DotnetIMG.PNG)
+![Pagina .net core](C:\POO\Setup\Img\DotnetIMG.PNG "Captura")
+
+
 
 ##   Instalación y configuración de Visual Studio Code para C#.
 
