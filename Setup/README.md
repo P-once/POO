@@ -15,7 +15,7 @@ Antes de descargar es necesario revisar los requisitos de el procesador
 ![Requisitos del procesador](\Img\System.PNG)
 
 Una vez elegido el programa correcto instalar y posteriormente abrir el instalador.
-Despues leer los terminos y condiciones e instlar.
+Despues leer los terminos y condiciones e instalar.
 
 
 
