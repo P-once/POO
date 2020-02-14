@@ -9,9 +9,11 @@ archivo de instalación del siguiente lugar:
 Es importante bajar el SDK, porque **vamos a programar**.
 
 La pagina se ve asi:
+
 ![Pagina .net core](.\Img\DotnetIMG.PNG "Captura")
 
-Antes de descargar es necesario revisar los requisitos de el procesador
+Antes de descargar es necesario revisar los requisitos de el procesador:
+
 ![Requisitos del procesador](.\Img\System.PNG)
 
 Una vez elegido el programa correcto instalar y posteriormente abrir el instalador.
@@ -24,9 +26,11 @@ Para instalar visual studio code es necesario ir al siguiente lugar:
 [Visual studio code descarga](https://code.visualstudio.com/download) 
 
 La pagina se ve de la siguiente manera:
+
 ![Pagina Visual studio Code](.\IMG\VSCode.PNG)
 
 Elegir la version y plataforma que se desea descargar.
+
 ![Versiones](.\IMG\VSCTipo.PNG)
 
 Una vez instalado el instalador, leer los terminos y condiciones.
