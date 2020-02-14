@@ -27,11 +27,11 @@ Para instalar visual studio code es necesario ir al siguiente lugar:
 
 La pagina se ve de la siguiente manera:
 
-![Pagina Visual studio Code](./IMG/VSCode.PNG)
+![Pagina Visual studio Code](./Img/VSCode.PNG)
 
 Elegir la version y plataforma que se desea descargar.
 
-![Versiones](./IMG/VSCTipo.PNG)
+![Versiones](./Img/VSCTipo.PNG)
 
 Una vez instalado el instalador, leer los terminos y condiciones.
 Al aceptarlos elegir las opciones de instalación y terminar de descargar.
@@ -43,7 +43,7 @@ Al aceptarlos elegir las opciones de instalación y terminar de descargar.
 Al querer descargar Git se necesita visitar la siguiente pagina:
 [Git descarga](https://git-scm.com/downloads)
 
-![Pagina de Git.](.\IMG\Git.PNG)
+![Pagina de Git.](./Img/Git.PNG)
 
 Es recomendable descargar la más reciente.
 Será necesario elegir la opción de su sistema operativo (Linux, Mac y Windows).
