@@ -4,10 +4,30 @@ namespace Pelicula
 {
     public class Pelicula
     {
-        public string Nombre;
-        public string Director;
-        public string Pais;
-        public int Año;
+        string Nombre;
+        string Director;
+        string Pais;
+        int Año;
+
+        public void SetNombre(string N)
+        {
+            Nombre = N;
+        }
+
+        public void SetAño(int A)
+        {
+            Año = A;
+        }
+
+        public string GetNombre()
+        {
+            return Nombre;
+        }
+
+        public int GetAño()
+        {
+            return Año;
+        }
     }
 
     class Program
@@ -15,17 +35,15 @@ namespace Pelicula
         static void Main(string[] args)
         {
             Pelicula Peli1 = new Pelicula();
-            Peli1.Nombre = "Jojo Rabbit";
-            Peli1.Año = 2019;
+            Peli1.SetNombre("Jojo Rabbit");
+            Peli1.SetAño(2019);
 
             Pelicula Peli2 = new Pelicula();
-            Peli2.Nombre = "Titanic";
-            Peli2.Año = 1997;
+            Peli2.SetNombre("Titanic");
+            Peli2.SetAño(1997);
 
-            Console.WriteLine(Peli1.Nombre);
-            Console.WriteLine(Peli1.Año);
-            Console.WriteLine(Peli2.Nombre);
-            Console.WriteLine(Peli2.Año);
+            Console.WriteLine("{0}({1})", Peli1.GetNombre(), Peli1.GetAño());
+            Console.WriteLine("{0}({1})", Peli2.GetNombre(), Peli2.GetAño());
         }
     }
 }
