@@ -50,7 +50,7 @@ namespace Pelicula
     {
         static void Main(string[] args)
         {
-            Pelicula Peli1 = new Pelicula();
+            /* Pelicula Peli1 = new Pelicula();
             Peli1.SetNombre("Jojo Rabbit");
             Peli1.SetAño(2019);
 
@@ -59,7 +59,10 @@ namespace Pelicula
             Peli2.SetAño(1997);
 
             Console.WriteLine("{0}({1})", Peli1.GetNombre(), Peli1.GetAño());
-            Console.WriteLine("{0}({1})", Peli2.GetNombre(), Peli2.GetAño());
+            Console.WriteLine("{0}({1})", Peli2.GetNombre(), Peli2.GetAño()); */
+
+            SetPelicula()
+
         }
     }
 }
