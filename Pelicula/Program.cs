@@ -9,6 +9,22 @@ namespace Pelicula
         string Pais;
         int Año;
 
+        public Pelicula()
+        {
+            Nombre = "No nombre";
+        }
+
+        public void SetPelicula(string N, int A)
+        {
+            Nombre = N;
+            Año = A;
+        }
+
+        public void Imprime()
+        {
+            Console.WriteLine(Nombre + " " + Año);
+        }
+
         public void SetNombre(string N)
         {
             Nombre = N;
