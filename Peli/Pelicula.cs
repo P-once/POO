@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Pelicula
 {
@@ -24,26 +24,6 @@ namespace Pelicula
         {
             Console.WriteLine(Nombre + " " + Año);
         }
-
-        public void SetNombre(string N)
-        {
-            Nombre = N;
-        }
-
-        public void SetAño(int A)
-        {
-            Año = A;
-        }
-
-        public string GetNombre()
-        {
-            return Nombre;
-        }
-
-        public int GetAño()
-        {
-            return Año;
-        }
     }
 
     class Program
@@ -52,6 +32,7 @@ namespace Pelicula
         {
             Pelicula Peli1 = new Pelicula();
             Pelicula Peli2 = new Pelicula();
+            
 
             Peli1.SetPelicula("Titanic", 1997);
             Peli2.SetPelicula("Jojo Rabbit", 2019);
