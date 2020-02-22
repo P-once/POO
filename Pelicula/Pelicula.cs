@@ -25,7 +25,6 @@ namespace Pelicula
             Console.WriteLine(Nombre + " " + Año);
         }
 
-  
     class Program
     {
         static void Main(string[] args)
