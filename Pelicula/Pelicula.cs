@@ -25,27 +25,7 @@ namespace Pelicula
             Console.WriteLine(Nombre + " " + Año);
         }
 
-        public void SetNombre(string N)
-        {
-            Nombre = N;
-        }
-
-        public void SetAño(int A)
-        {
-            Año = A;
-        }
-
-        public string GetNombre()
-        {
-            return Nombre;
-        }
-
-        public int GetAño()
-        {
-            return Año;
-        }
-    }
-
+  
     class Program
     {
         static void Main(string[] args)
