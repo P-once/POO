@@ -1,6 +1,8 @@
 # POO
-Actividades. Programación orientado a objetos 2020
+Actividades realizadas durante el semestre. Programación orientado a objetos 2020
 
-[Actividad 1](./Setup/README.md)
+[Actividad_1](./Setup/README.md)
 
-[Actividad 2](./Pelicula/Pelicula.cs)
+[Actividad_2](./Pelicula/Pelicula.cs)
+
+[Actividad_3](./ListPelicula/Program.cs)
