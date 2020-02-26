@@ -27,6 +27,8 @@ namespace Pelicula
             Peliculas.Add(new Pelicula("Jojo Rabbit"));
             Peliculas.Add(new Pelicula("1917"));
             Peliculas.Add(new Pelicula("Avatar"));
+            Peliculas.Add(new Pelicula("Lo que el viento se llevo"));
+            Peliculas.Add(new Pelicula("La la land"));
 
             foreach(Pelicula P in Peliculas)
             {
